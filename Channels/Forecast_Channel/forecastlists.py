@@ -5503,6 +5503,10 @@ weathercities065["Melbourne"] = [
     ["メルボルン", "Melbourne", "Melbourne", "Melbourne", "Melbourne", "Melbourne", "Melbourne"],
     ["ヴィクトリア州", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria"],
     ["オーストラリア", "Australia", "Australien", "Australie", "Australia", "Australia", "Australië"], "e51d671607030000"]
+weathercities065["Lakes Entrance"] = [
+    ["ジーロング", "Lakes Entrance", "Lakes Entrance", "Lakes Entrance", "Lakes Entrance, "Lakes Entrance", "Lakes Entrance"],
+    ["ヴィクトリア州", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria"],
+    ["オーストラリア", "Australia", "Australien", "Australie", "Australia", "Australia", "Australië"], 
 weathercities065["Geelong"] = [
     ["ジーロング", "Geelong", "Geelong", "Geelong", "Geelong", "Geelong", "Geelong"],
     ["ヴィクトリア州", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria", "Victoria"],
